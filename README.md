@@ -15,3 +15,7 @@ https://github.com/miniBcake/clone_coding.git <br>
 - team project 중간프로젝트의 중간프로젝트 / team_JSP_project_240830E_breadfish <br>
   (JSP프로젝트, oracle DB. ecilpse / html, css, javascript, jquery, ajax, El, JSTL 등) <br>
   담당 파트 : Model 파트장 / 담당 파트 정리글 : https://minibcake.tistory.com/196
+
+- team project 중간프로젝트 / team_project_middle_project <br>
+  (JSP프로젝트, oracle DB. ecilpse / html, css, javascript, jquery, ajax, El, JSTL 등) <br>
+  담당 파트 : Model 파트장
